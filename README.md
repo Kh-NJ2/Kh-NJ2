@@ -21,4 +21,3 @@ I am a Computer Science student at the Arab Academy For Science And Technology (
 
 ## Contact Information
 * **Email:** [kh.nadine.x@gmail.com](mailto:kh.nadine.x@gmail.com)
-* **GitHub:** [https://github.com/Kh-NJ2](https://github.com/Kh-NJ2)
